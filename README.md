@@ -1,5 +1,4 @@
 ## Hi there 👋
-최근 게임쪽# Hi there 👋
 최근 게임쪽에 관심이 생겨 UNITY 나 UNREAL ENGINE에 관심이 있습니다.
 
 <!--
