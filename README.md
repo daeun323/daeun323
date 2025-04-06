@@ -1,5 +1,6 @@
 ## Hi there 👋
 최근 UNITY나 UNREAL ENGINE에 관심이 있습니다.
+C#, C++을 굉장히 천천히 공부하는 중 입니다.
 
 <!--
 **daeun323/daeun323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
